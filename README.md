@@ -3,8 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bogdan+Chupahin!;" />
 </h1>
 
-<h3 align="center">ios developer from Moscow</h3>
+<h3 align="center">ios developer from Moscow🇷🇺</h3>
 
+<br/>
+
+<div align="center">
+
+ 🔭 I'm currently working on an iPad app in OpenSource
+ 
+ 🌱 I’m currently learning SwiftUI, CoreML, Networking
+
+💬 Ask me anything in telegram @Uvexer. 
+
+⚡ Fun fact: prior to Swift, I worked as a python tutor and programmed in C#/C/php.
  
 <div align="center"> 
   <a href="mailto:m2112619@edu.misis.ru">
