@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning SwiftUI, CoreML, Networking
 
-💬 Ask me anything in telegram @Uvexer. 
+💬 Ask me anything in telegram @bogd1104. 
 
 ⚡ Fun fact: prior to Swift, I worked as a python tutor and programmed in C#/C/php.
  
