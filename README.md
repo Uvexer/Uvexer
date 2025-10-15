@@ -9,7 +9,7 @@
 
 <div align="center">
 
- 🔭 I'm currently working on an iPad app in OutSource
+ 🔭 I'm currently working in Germany Casino project 🇩🇪
  
  🌱 I’m currently learning SwiftUI, CoreML, Networking
 
